@@ -1,0 +1,59 @@
+{
+  "nome": "Casa Criativa - assets landing page Camilão, o Comilão",
+  "evento": {
+    "data": "2026-10-17",
+    "horario": "14:00–16:30",
+    "valor_brl": 130,
+    "vagas_totais": 12,
+    "whatsapp": "5554999170574"
+  },
+  "referencia_principal": "referencia/layout_aprovado.png",
+  "imagem_hero_fiel_ao_preview": "imagens/hero_referencia_layout.webp",
+  "imagem_hero_foto_real": "imagens/hero_foto_original.webp",
+  "logotipo_do_mockup_nao_oficial": "imagens/logo_referencia_alta_resolucao.png",
+  "imagens_cards": {
+    "contacao_historia": "imagens/prof_lu_card.webp",
+    "porquinho_branco": "imagens/porquinho_branco_original.webp",
+    "materiais_ilustrativo": "imagens/materiais_referencia_mockup.webp",
+    "lanchinho_ilustrativo": "imagens/lanche_referencia_mockup.webp"
+  },
+  "imagens_etapas": [
+    "imagens/etapa_01_livro.webp",
+    "imagens/etapa_02_pintura.webp",
+    "imagens/etapa_03_levar.webp"
+  ],
+  "prof_lu": "imagens/prof_lu_original.webp",
+  "elementos_svg": [
+    "graficos/canto_lilas.svg",
+    "graficos/coracao_contorno.svg",
+    "graficos/fundo_card_lilas.svg",
+    "graficos/fundo_onda_rosado.svg",
+    "graficos/lanche_ilustracao.svg",
+    "graficos/materiais_ilustracao.svg",
+    "graficos/pincelada_rosa.svg"
+  ],
+  "icones_svg": [
+    "icones/icone_ajuda.svg",
+    "icones/icone_calendario.svg",
+    "icones/icone_lanche.svg",
+    "icones/icone_livro.svg",
+    "icones/icone_paleta.svg",
+    "icones/icone_pincel.svg",
+    "icones/icone_porquinho.svg",
+    "icones/icone_relogio.svg",
+    "icones/icone_seta.svg",
+    "icones/icone_vagas.svg",
+    "icones/icone_valor.svg",
+    "icones/icone_whatsapp.svg"
+  ],
+  "preview_html": "implementacao_referencia/index.html",
+  "notas_criticas": [
+    "Material e lanche provêm do preview gerado; não são fotos reais confirmadas do evento.",
+    "A marca extraída do preview é uma referência visual; não substitui a logomarca oficial.",
+    "O preview é uma referência estética; instruções e dados do evento do prompt são autoritativos.",
+    "Link do WhatsApp somente solicita uma vaga; não reserva automaticamente."
+  ],
+  "favicon_mockup": "imagens/favicon_referencia.png",
+  "imagem_compartilhamento": "imagens/compartilhamento_evento_1200x630.png",
+  "instrucoes_codex": "INSTRUCOES_CODEX.txt"
+}

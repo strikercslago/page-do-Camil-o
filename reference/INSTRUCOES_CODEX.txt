@@ -1,0 +1,16 @@
+INTEGRAÇÃO NO CODEX | CASA CRIATIVA
+
+Implemente a landing page do evento Camilão, o Comilão no projeto web existente usando o print em referencia/layout_aprovado.png como critério visual de aceitação. Este kit possui fotografias, logo de referência, icons SVG, graficos SVG e uma implementação HTML/CSS estática para orientar a adaptação ao framework existente. Cada asset está separado em um arquivo.
+
+1. Inspecione o projeto e adapte a referência sem refazer o site.
+2. Implemente a rota /eventos/camilao-o-comilao (ou equivalente no framework existente).
+3. Use as imagens corretas mapeadas em manifesto_assets.json; preservar identidades, proporções e contexto das fotos.
+4. Use a composição visual de implementacao_referencia/ como base de HTML/CSS, mas mantenha os padrões do projeto.
+5. Todos os botoes de inscrição abrem o WhatsApp 5554999170574 com mensagem contextualizada. Reserva exige confirmação da equipe.
+6. Dados oficiais: sábado, 17 de outubro de 2026; 14h às 16h30; R$ 130 por criança; 12 vagas totais; contação com Prof. Lu; porquinho de gesso branco para personalizar e levar para casa; material e lanchinho inclusos.
+7. Não reproduza datas/preços de previews antigos. Não invente faixa etária, condições de pagamento, lanche servido ou vagas já ocupadas.
+8. Materiais e lanche em assets marcados referencia_mockup são ilustrativos, não fotos originais. Solicite substituição antes de publicação final se houver exigência de fotos reais.
+9. Logo é extraído do mockup, não arquivo de marca oficial; troque por logo oficial se disponível.
+10. Verifique desktop 1440px, tablet 768px e celular 390px. Não comprima conteúdo nem adicione elementos decorativos extras.
+11. Valide acessibilidade, metadados de compartilhamento (compartilhamento_evento_1200x630.png) e deploy Netlify.
+12. Entregue somente código integrado, arquivos alterados e pendências reais.
